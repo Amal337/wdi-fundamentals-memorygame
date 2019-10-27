@@ -7,6 +7,7 @@ function checkForMatch() {
   }  else {
      console.log("Sorry, Try Again.");
     }
+}
 
 function flipCard(cardId) {
 
